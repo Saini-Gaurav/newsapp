@@ -1,4 +1,4 @@
-Author - Gaurav Saini
+Author - Gaurav Saini (Frontend Developer)
 
 # Getting Started with Create React App
 
